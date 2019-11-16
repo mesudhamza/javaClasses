@@ -7,6 +7,17 @@ public class InterviewQuestions {
 
 		//Write a program to swap 2 numbers without a temporary variable? Swap 2 strings without a temporary variable?
 				
+		int a=2;
+		
+		int b=5;
+		
+		a=5;
+		b=2;
+		
+		System.out.println(a);
+		System.out.println(b);
+		
+		
 		
 		
 		
